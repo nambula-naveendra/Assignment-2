@@ -1,0 +1,17 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "backend design",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naveendra",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  },
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
